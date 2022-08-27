@@ -1,4 +1,4 @@
-git# ***РАБОТА С GIT***
+# ***РАБОТА С GIT***
 >*Создаем директорию*
 
 <img src="IMAGES/1.jpg">
@@ -40,7 +40,7 @@ git# ***РАБОТА С GIT***
 
 # *Image*
 
-<image src= "images/Cat.jpg">
+<image src= "IMAGES/Cat.jpg">
 
 > И ЕЩЕ ОДНА КАРТИНКА
 
