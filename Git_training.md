@@ -66,8 +66,13 @@
 |       Nail     |         12           |
 |         Screw       |       14            |
 | Profiled nut            |                11  |
+## РАБОТА В GITHUB
+
+<img src="IMAGES/PULL_REQUEST.jpg">
 
 <img src="IMAGES/SCRGH.jpg">
+
+<img src="IMAGES/S_SH1.jpg">
 
 #    ***IT IS `CONCLUSION`: I LIKE MD***
 
