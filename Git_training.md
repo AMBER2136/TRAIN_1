@@ -67,6 +67,8 @@
 |         Screw       |       14            |
 | Profiled nut            |                11  |
 
+<img src="IMAGES/SCRGH.jpg">
+
 #    ***IT IS `CONCLUSION`: I LIKE MD***
 
 
