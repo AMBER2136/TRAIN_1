@@ -68,9 +68,9 @@
 | Profiled nut            |                11  |
 ## РАБОТА В GITHUB
 
-<img src="IMAGES/PULL_REQUEST.jpg">
+![IMAGES/PULL_REQUEST.JPG](https://github.com/AMBER2136/TRAIN_1/blob/main/IMAGES/PULL_REQUEST.JPG)
 
-<img src="IMAGES/SCRGH.jpg">
+![IMAGES/SCRGH.JPG](https://github.com/AMBER2136/TRAIN_1/blob/9da380e4f22d3d2c39cddca90c015653b22efb81/IMAGES/SCRGH.JPG)
 
 <img src="IMAGES/S_SH1.jpg">
 
