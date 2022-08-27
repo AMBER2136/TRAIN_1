@@ -1,4 +1,5 @@
 # ***РАБОТА С GIT***
+
 >*Создаем директорию*
 
 <img src="IMAGES/1.jpg">
@@ -50,7 +51,7 @@
 
 <img src="IMAGES/Blin.jpg">
 
-И ЕЩЕ ОДНА
+>И ЕЩЕ ОДНА
 
 <img src="IMAGES/MASH.jpg">
 
