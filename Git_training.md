@@ -65,6 +65,7 @@
 |:---------------------|:-----------------:|
 |       Nail     |         12           |
 |         Screw       |       14            |
+| Profiled nut            |                11  |
 
 #    ***IT IS `CONCLUSION`: I LIKE MD***
 
