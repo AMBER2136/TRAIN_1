@@ -37,6 +37,10 @@
 
 [YANDEX](https://yandex.ru)
 
+### ЕЩЕ ОДНА ССЫЛКА
+
+[MY GITHUB](https://github.com/AMBER2136/TRAIN_1)
+
 ### ДОБАВИМ КАРТИНКУ
 
 # *Image*
