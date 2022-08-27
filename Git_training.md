@@ -2,15 +2,15 @@
 
 >*Создаем директорию*
 
-<img src="IMAGES/1.jpg">
+<img src="IMAGES/a.jpg">
 
 >Инициализируем директорию
 
-<img src="IMAGES/2.jpg">
+<img src="IMAGES/b.jpg">
 
 >Добавляем файл в отслеживаемые и фиксируем изменения.
 
-<img src="IMAGES/3.jpg">
+<img src="IMAGES/33.jpg">
 
 ## ПОПРОБУЕМ ЭМОДЖИ
 
@@ -20,22 +20,26 @@
 
 ### ЗАФИКСИРУЕМСЯ, ПРОСМОТРИМ ЖУРНАЛ
 
-<img src="IMAGES/4.jpg">
+<img src="IMAGES/44.jpg">
 
 ### ФИКСИРЕУМ, ДОБАВЛЯЕМ ДИРЕКТОРИЮ "IMAGE" В ОТСЛЕЖИВАЕМЫЕ
 
 
-<img src="IMAGES/6.jpg">
+<img src="IMAGES/66.jpg">
 
 ### ЕЩЕ РАЗ ПРОСМАТРИВАЕМ ЖУРНАЛ
 
-<img src="IMAGES/7.jpg">
+<img src="IMAGES/77.jpg">
 
 ### ВСТАВИМ ССЫЛКУ
 
 ## **Link**
 
 [YANDEX](https://yandex.ru)
+
+### ЕЩЕ ОДНА ССЫЛКА
+
+[MY GITHUB](https://github.com/AMBER2136/TRAIN_1)
 
 ### ДОБАВИМ КАРТИНКУ
 
