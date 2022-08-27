@@ -2,11 +2,11 @@
 
 >*Создаем директорию*
 
-<img src="IMAGES/1.jpg">
+<img src="IMAGES/a.jpg">
 
 >Инициализируем директорию
 
-<img src="IMAGES/2.jpg">
+<img src="IMAGES/b.jpg">
 
 >Добавляем файл в отслеживаемые и фиксируем изменения.
 
